@@ -1,5 +1,5 @@
 # UnityGame_3D
-## Дизайн нової гри
+## Додатковий дизайн гри "Space"
 
 ![Home](https://user-images.githubusercontent.com/108077526/210634492-9b791a85-4412-40f1-b8c7-5c8b774a3c55.png)
 ![Game](https://user-images.githubusercontent.com/108077526/210634485-d570074e-1a82-4cf9-9de7-d22b47f1313e.png)
