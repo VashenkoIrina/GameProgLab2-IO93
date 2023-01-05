@@ -1,4 +1,4 @@
-# UnityGame_3D
+# GameProgLab2
 ## Додатковий дизайн гри "Space"
 
 ![Home](https://user-images.githubusercontent.com/108077526/210634492-9b791a85-4412-40f1-b8c7-5c8b774a3c55.png)
